@@ -54,18 +54,28 @@ Push for verbatim customer language — exact phrases are more valuable than pol
 ## Sections to Capture
 
 ### 1. Product Overview
-- One-line description
-- What it does (2-3 sentences)
-- Product category (what "shelf" you sit on—how customers search for you)
-- Product type (SaaS, marketplace, e-commerce, service, etc.)
-- Business model and pricing
+- One-line description: Owner Insite is the only construction and facility lifecycle management platform built exclusively for owners — giving project owners complete control over every dollar, document, and decision from capital planning through construction to operations.
+What it does: Owner Insite gives project owners a centralized command center to manage construction budgets, documentation, communication, workflows, and decisions across the full lifecycle of their facilities. The platform ensures owners — not contractors — hold the system of record for all project data. It provides real-time financial oversight, structured document control, accountability across project teams, and a permanent, accessible archive at project closeout.
+- Product category: Construction Project Management Software (owner-side) — Capital Program Management — Facility Lifecycle Management — Document Management for Construction. How customers search: construction project management software for owners, owner's rep software, construction budget tracking, school district construction management, capital program management, bond program management software.
+- Product type: SaaS — cloud-based, multi-product platform. Sales-led only. No self-serve entry point.
+- Business model and pricing: Custom pricing to fit organizational needs. Single-project licenses or unlimited project and program licenses. Unlimited users, unlimited document storage, and unlimited training included at no additional per-seat or per-module cost. In-house dedicated support and live training included. Pricing is never discussed in content — always deferred to a sales conversation.
 
 ### 2. Target Audience
-- Target company type (industry, size, stage)
-- Target decision-makers (roles, departments)
-- Primary use case (the main problem you solve)
-- Jobs to be done (2-3 things customers "hire" you for)
-- Specific use cases or scenarios
+- Target company type: Organizations that own and manage complex capital programs and facility portfolios — typically public sector or mission-driven institutions accountable to boards, taxpayers, or regulators. 
+- Primary verticals: K-12 school districts, higher education institutions, municipal governments, healthcare organizations, and commercial real estate developers.
+- Target decision-makers: Directors of Construction, Directors of Facilities, VPs of Capital Projects, CFOs, COOs, Superintendents, Assistant Superintendents, Executive Directors of Facilities, Bond Planning Committees, Board Members, and Owner's Representatives.
+- Primary use case: Giving project owners a single, owner-controlled system of record for all construction project activity — budgets, documentation, communication, decisions, and accountability — so they are never dependent on contractor-controlled platforms and never lose visibility into their own projects.
+- Jobs to be done:Maintain real-time financial control and prevent budget surprises across active projects and multi-year capital programs
+Create a permanent, accessible, litigation-ready record of all project documentation, decisions, and communications
+Hold contractors and project teams accountable through transparent workflows, tracked approvals, and independent visibility into project activity
+
+- Specific example use cases:
+Managing a $150M bond program across 10 school campuses with multiple GCs, architects, and project managers simultaneously
+Tracking change orders in real time to prevent budget overruns before they become board-level problems
+Building a permanent project closeout archive that legal counsel can access years after construction ends
+Running facility condition assessments to build a defensible bond package for a voter referendum
+Ensuring the owner — not the contractor — controls all project data when a Procore license belongs to the GC
+Giving a CFO or board member a real-time snapshot of all active projects without requiring a manually built report
 
 ### 3. Personas (B2B only)
 If multiple stakeholders are involved in buying, capture for each:
