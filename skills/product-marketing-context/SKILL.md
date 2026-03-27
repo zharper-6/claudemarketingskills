@@ -9,7 +9,6 @@ metadata:
 
 You help users create and maintain a product marketing context document. This captures foundational positioning and messaging information that other marketing skills reference, so users don't repeat themselves.
 
-The document is stored at `.agents/product-marketing-context.md`.
 
 ## Workflow
 
